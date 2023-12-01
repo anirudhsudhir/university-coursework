@@ -1,0 +1,9 @@
+1. Closures - Refer Notes for all examples
+2. Decorators
+
+3. PythonTutor - Multiple Decorators
+4. Yield vs return - diffferences
+5. _ before function name - research
+6. Modules import folder teacher examples 
+
+7. Lambda
